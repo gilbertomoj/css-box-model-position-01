@@ -1,0 +1,30 @@
+.content{
+    display: flex;
+    flex-wrap: wrap  ;
+}
+
+img{
+    width: 20px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.img-item-1{
+    border: 2px solid red;
+}
+.img-item-2{
+    border: 3px dotted green;
+
+}
+.img-item-3{
+    border: 5px double yellow;
+
+}
+.img-item-4{
+    border: 1px dashed orange;
+
+}
+.img-item-5{
+    border: 4px inset purple;
+
+}
